@@ -16,4 +16,4 @@ requires:
   Test::Chimps::Report: 0
   Test::Chimps::ReportCollection: 0
   YAML::Syck: 0
-version: 0.03
+version: 0.04
